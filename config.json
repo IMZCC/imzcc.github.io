@@ -1,0 +1,45 @@
+{
+	"head": {
+		"title": "✘✘ | 苹果派派",
+		"description": "苹果派派主页",
+		"favicon": "assets/favicon.ico"
+	},
+	"intro": {
+		"title": "✘✘",
+		"subtitle": "IMZCC",
+		"enter": "ENTER",
+		"supportAuthor": true,
+		"background": true
+	},
+	"main": {
+		"name": "✘✘",
+		"signature": "IMZCC",
+		"avatar": {
+			"link": "assets/avatar.jpg",
+			"height": "100",
+			"width": "100"
+		},
+		"ul": {
+			"first": {
+				"href": "https://www.imzcc.com",
+				"icon": "bokeyuan",
+				"text": "Blog"
+			},
+			"second": {
+				"href": "mailto:simon@tomotoes.com",
+				"icon": "email",
+				"text": "Email"
+			},
+			"third": {
+				"href": "https://github.com/IMZCC",
+				"icon": "github",
+				"text": "Github"
+			},
+			"fourth": {
+				"href": "https://proxy.imzcc.com",
+				"icon": "other",
+				"text": "Download"
+			}
+		}
+	}
+}
